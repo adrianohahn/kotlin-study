@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8e8a5c9-2a56-4ad6-8888-3198acf4f964" name="Changes" comment="My first Kotlin program">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+    <list default="true" id="d8e8a5c9-2a56-4ad6-8888-3198acf4f964" name="Changes" comment="Played with variables">
+      <change afterPath="$PROJECT_DIR$/basics/src/main/kotlin/intro/Variables.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/basics/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basics/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,7 @@
       <recent name="C:\Users\adriano\git\kotlin-study\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionsKt">
+  <component name="RunManager" selected="Kotlin.VariablesKt">
     <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intro.FunctionsKt" />
       <module name="kotlin-study.basics.main" />
@@ -109,6 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro.VariablesKt" />
+      <module name="kotlin-study.basics.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="build.gradle.kts" type="KotlinStandaloneScriptRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-study" />
       <option name="filePath" value="$PROJECT_DIR$/basics/build.gradle.kts" />
@@ -118,11 +121,13 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Kotlin.VariablesKt" />
       <item itemvalue="Kotlin.FunctionsKt" />
       <item itemvalue="Kotlin script (Beta).build.gradle.kts" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin script (Beta).build.gradle.kts" />
         <item itemvalue="Kotlin.MainKt" />
@@ -145,11 +150,20 @@
       <option name="project" value="LOCAL" />
       <updated>1675610207122</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tried some functions">
+      <created>1675623676075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675623676075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first Kotlin program" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first Kotlin program" />
+    <MESSAGE value="Tried some functions" />
+    <MESSAGE value="Played with variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Played with variables" />
   </component>
 </project>
